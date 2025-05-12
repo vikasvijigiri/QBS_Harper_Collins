@@ -1,0 +1,8 @@
+streamlit
+pypandoc
+openai
+PyPDF2
+transformers
+pdf2image
+torch
+tiktoken

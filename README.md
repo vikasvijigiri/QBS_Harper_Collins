@@ -15,7 +15,7 @@ Step 5: open the Jupyter Notebook content_generator.ipynb
 Step 6: In the jupyter notebook, write the topics under the "topics" variable for which the chapter has to be generated and make sure all the variables and file names are correctly fed. Change the user_message and system message accordingly for each cell and for each chapter and it's content. 
 NOTE: This is not generic code.  
 
-Step 7: After step 4 is thoroughly taken care, run all the cell in order from top.
+Step 7: After step 6 is thoroughly taken care, run all the cell in order from top.
 
 Step 8: In the last cell, the corresponding files generated are merged to give a complete chapter contents.
 

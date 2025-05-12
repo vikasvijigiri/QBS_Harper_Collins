@@ -17,7 +17,7 @@ NOTE: This is not generic code.
 
 Step 7: After step 6 is thoroughly taken care, run all the cell in order from top.
 
-Step 8: In the last cell, the corresponding files generated are merged to give a complete chapter contents.
+Step 8: In the last cell, the corresponding files generated are merged to give a complete chapter content.
 
 
 

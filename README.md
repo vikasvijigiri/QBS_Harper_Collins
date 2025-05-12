@@ -6,8 +6,7 @@ Step 1: conda create -p ./venv python==3.10
 
 Step 2: conda activate ./venv
 
-Step 2: Install all the prerequisites
-pip install -r requirements.txt
+Step 2: pip install -r requirements.txt  (Install all the prerequisites)
 
 Step 3: open the Jupyter Notebook content_generator.ipynb
 

@@ -6,7 +6,7 @@ Step 1: conda create -p ./venv python==3.10
 
 Step 2: conda activate ./venv
 
-Step 3: Create a .env file and store the openAI api key under the variable OPENAI_API_KEY 
+Step 3: Fill the .env file with the openAI api key under the variable OPENAI_API_KEY 
 
 Step 4: pip install -r requirements.txt  (Install all the prerequisites)
 

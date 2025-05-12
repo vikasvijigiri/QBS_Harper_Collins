@@ -6,6 +6,8 @@ Step 1: conda create -p ./venv python==3.10
 
 Step 2: conda activate ./venv
 
+Step 2.1: Create a .env file and store the openAI api key under the variable OPENAI_API_KEY 
+
 Step 2: pip install -r requirements.txt  (Install all the prerequisites)
 
 Step 3: open the Jupyter Notebook content_generator.ipynb
